@@ -1,4 +1,4 @@
-package com.futmatch;
+package com.guseoh.futmatch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
